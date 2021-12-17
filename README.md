@@ -1,24 +1,18 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7800
-Fork on GitHub
-1593
 
 <h1 align="center">Hi 👋, I'm Andika Bintang</h1>
-<h3 align="center">Just bored Account from Indonesian > 15y.O IT Security Enthusiast</h3>
+<h3 align="center">15y.O Cyber Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebinyourbae&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebinyourbae" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmebinyourbae" alt="itsmebinyourbae" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security, Programming, Pentesting**
+- 🌱 I’m currently learning : **Cyber Security, Programming, Pentesting**
 
-- 💬 Ask me about **Pentesting, Bash, Python**
+- 💬 Ask me about : **Pentesting, Bash, Python**
 
-- 📫 Contact me At **andikabintang11@gmail.com**
+- 📫 Contact me At : **andikabintang11@gmail.com**
 
-- ⚡ Fun fact **just a bored account hahahaha!**
+- ⚡ Fun fact : **just a bored account hahahaha!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
